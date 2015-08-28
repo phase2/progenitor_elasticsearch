@@ -3,7 +3,7 @@ core = 7.x
 
 projects[search_api][type] = module
 projects[search_api][subdir] = contrib
-projects[search_api][version] = 1.17
+projects[search_api][version] = 1.7
 
 projects[elasticsearch_connector][type] = module
 projects[elasticsearch_connector][subdir] = contrib
