@@ -1,7 +1,7 @@
-# Progenitor ElasticSearch
+# Progenitor Elasticsearch
 
 This [Progenitor Stack](http://github.com/phase2/progenitor) provides the
-dependencies for advanced site search via the [ElasticSearch](http://drupal.org/project/elasticsearch_connector)
+dependencies for advanced site search via the [Elasticsearch Connector](http://drupal.org/project/elasticsearch_connector)
 module.
 
 ## Usage
